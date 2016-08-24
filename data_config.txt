@@ -1,0 +1,5 @@
+# DO NOT CHANGE LINES STARTING WITH POUND SIGN
+# FIRST LINE: directory/folder of raw CSV files
+# SECOND LINE: directory/folder where formatted data file will be placed
+data_bigin
+data_bigot

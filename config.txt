@@ -1,0 +1,72 @@
+# DO NOT CHANGE COMMENTS/INSTRUCTION LINES STARTING WITH POUND SIGN
+# Data Directory (where data is available)
+data_bigot
+
+# Data Files. Line starting with pound will be skipped
+# 07.21.06.CSV
+# 08.18.06.CSV
+# 09.15.06.CSV
+# 10.13.06.CSV
+# 11.10.06.CSV
+# 12.08.06.CSV
+# 01.05.07.CSV
+# 02.02.07.CSV
+# 03.02.07.CSV
+# 03.30.07.CSV
+# 05.25.07.CSV
+# 06.22.07.CSV
+# 07.20.07.CSV
+# 08.17.07.CSV
+# 09.14.07.CSV
+# 10.12.07.CSV
+# 11.09.07.CSV
+# 12.07.07.CSV
+# 01.04.08.CSV
+# 02.01.08.CSV
+# 02.29.08.CSV
+# 03.28.08.CSV
+# 04.25.08.CSV
+# 05.23.08.CSV
+# 06.20.08.CSV
+# 07.18.08.CSV
+# 08.15.08.CSV
+# 09.12.08.CSV
+# 10.10.08.CSV
+# 11.07.08.CSV
+# 12.05.08.CSV
+# 01.02.09.CSV
+# 01.30.09.CSV
+# 02.27.09.CSV
+# 03.27.09.CSV
+# 05.22.09.CSV
+# 06.19.09.CSV
+# 07_17_2009.csv
+# 08_14_2009.csv
+# 09_11_2009.csv
+# 10_09_2009.csv
+# 11_06_2009.csv
+# 12_04_2009.csv
+# 01_01_2010.csv
+# 01_29_2010.csv
+# 02_26_2010.csv
+# 03_26_2010.csv
+# 04_23_2010.csv
+# 05_21_2010.csv
+# 06_18_2010.csv
+# 07_16_2010.csv
+# 08_13_2010.csv
+# 09_10_2010.csv
+10_08_2010.csv
+# 11_05_2010.csv
+
+# Result Prefix (Prefix of result file)
+result
+
+# Missing Values Threshold (Percentage missing threshold for removal)
+20
+
+# Outlier threshold (standard deviation(s) threshold)
+4
+
+# Box-Cox Transformation (0 = No, 1 = Yes)
+1
